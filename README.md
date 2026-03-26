@@ -7,7 +7,7 @@ This is the official repository for *Semi-Implicit Variational Inference via Ker
 This repository provides the KPG files that should be overlaid onto
 an official KSIVI ([Cheng et al., 2024](https://proceedings.mlr.press/v235/cheng24l.html)) checkout.
 
-Top-level simulation scripts in this package are derived from KSIVI experiment scripts, with minimal edits for KPG integration.
+Simulation scripts in this package are derived from KSIVI experiment scripts, with minimal edits for KPG integration.
 
 ## How to use
 
